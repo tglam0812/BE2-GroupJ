@@ -1,1 +1,3 @@
-# BE2-GroupJ
+# ogani
+
+E-store template in HTML, CSS, and Javascript.
